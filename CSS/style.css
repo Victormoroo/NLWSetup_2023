@@ -1,0 +1,17 @@
+:root {
+    --black: #09090A;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--black);
+
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
