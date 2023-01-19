@@ -1,0 +1,5 @@
+@media (max-widht: 570px) {
+    button div {
+        display: none;
+    }
+}

@@ -23,6 +23,10 @@ header {
     align-items: center;
     justify-content: space-between;
 
+    position: fixed;
+    width: 100%;
+    background-color: var(--black);
+
     padding: 48px;
 }
 
@@ -46,7 +50,8 @@ button {
 form {
     display: flex;
 
-    padding: 0 48px;
+    padding: 182px 48px 48px;
+    width: fit-content;
 }
 
 .habits {
