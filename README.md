@@ -46,5 +46,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Victor Moro:
-- [Linkedin](https://www.linkedin.com/in/victor-hugo-moro-941a2720a/)
+- [Linkedin](https://www.linkedin.com/in/victormoroo/)
 - [GitHub](https://github.com/Victormoroo)
