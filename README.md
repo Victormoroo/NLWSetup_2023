@@ -7,7 +7,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [![NPM](https://img.shields.io/npm/l/a)](https://github.com/Victormoroo/NLWSetup_2023/blob/main/LICENSE)
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
